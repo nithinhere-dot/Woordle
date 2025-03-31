@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.fredoka-bold {
+  font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
